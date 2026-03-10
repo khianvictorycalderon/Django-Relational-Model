@@ -1,5 +1,5 @@
 # Django Relational Model
-An experimental project with Django models that are relational.
+An experimental project with Django models that are relational. I used [Apixer](https://apixer.vercel.app) to test the APIs of this project.
 
 ## Setup
 1. Clone this repository via `git clone https://github.com/khianvictorycalderon/Django-Relational-Model.git`
